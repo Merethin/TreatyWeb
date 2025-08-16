@@ -1,4 +1,4 @@
-The North Pacific,Game-Created Region
+The North Pacific,Game-Created Region,tnp.csv
 The South Pacific,Game-Created Region,tsp.csv
 The East Pacific,Game-Created Region,tep.csv
 The West Pacific,Game-Created Region,twp.csv
@@ -65,3 +65,7 @@ Equilism,Stronghold
 Carcassonne,Frontier
 Communitas,Frontier
 Lone Wolves United,Stronghold
+Europe,Stronghold
+International Democratic Union,Stronghold
+Stargate,Stronghold
+Taijitu,Stronghold

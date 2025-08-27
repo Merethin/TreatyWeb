@@ -8,7 +8,7 @@ The Plains of Perdition,Game-Created Region,perdition.csv
 The Outback,Game-Created Region,outback.csv
 Balder,Game-Created Region
 Lazarus,Game-Created Region,lazarus.csv
-Osiris,Game-Created Region
+Osiris,Game-Created Region,osiris.csv
 Europeia,Frontier,europeia.csv
 10000 Islands,Stronghold
 Sovereign Seven,Alliance,s7.csv
@@ -71,3 +71,5 @@ Stargate,Stronghold
 Taijitu,Stronghold
 World Assembly Legislative League,Alliance,wall.csv
 Vibonia,Frontier
+The Black Hawks,Stronghold
+The Brotherhood of Malice,Stronghold
